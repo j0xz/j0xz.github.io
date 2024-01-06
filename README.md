@@ -1,1 +1,1 @@
-a personal portfolio website
+a portfolio website
