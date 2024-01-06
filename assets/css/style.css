@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(226, 4, 4, 0.938); 
   border-radius: 50% !important;
 }
 
@@ -56,6 +56,10 @@
 
 .linkedin {
   color: #0077b5;
+}
+
+.line-gap {
+  margin-bottom: 20px; /* Adjust the value as needed */
 }
 
 .angellist {
